@@ -1,3 +1,4 @@
+![](image.jpg)
 ## Hi 👋 I am Vishnu!
 I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in, are Python, Tensorflow, Django, Flask and Fast api.
 - 👨🏽‍💻 Currently working in Natural language processing, Computer vision and Churn analytics
