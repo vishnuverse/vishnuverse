@@ -14,7 +14,6 @@ I am a developer who is passionate about stuff like deep learning and data scien
 >[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/The_VishnuAnil) 
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://github.com/VishnuAnilkumar-DS)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vishnu-anilkumar-367306126/)
-![Repos Badge](https://badges.pufler.dev/repos/Vshnu-Anilkumar?style=for-the-badge&color=red)
 
 </p>
 
