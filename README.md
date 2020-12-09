@@ -23,22 +23,6 @@ I am a developer who is passionate about stuff like deep learning and data scien
 ---
 
 <details open>
- <summary> 
- 😇 <b>Github Stats</b> 
- 
- </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Vshnu-Anilkumar&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vshnu-Anilkumar&hide=css,html&theme=tokyonight">
-</p>
-
-</details>
-
-<details open>
-<summary>
 💻 <b>My Stack</b> 
 
 </summary>
