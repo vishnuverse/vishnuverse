@@ -4,7 +4,7 @@ I am a data scientist who is passionate about stuff like deep learning and data 
 - 👨🏽‍💻 Currently working in Natural language processing, Computer vision and Churn analytics
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource projects.
-- 👍 Working as Machine Learning Engineer at [Reflections info systems](https://reflectionsglobal.com/)
+- 👍 Working as Senior Machine Learning Engineer at [Quantiphi](https://quantiphi.com/)
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
