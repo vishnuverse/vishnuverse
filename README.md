@@ -2,9 +2,9 @@
 ## Hi 👋 I am Vishnu!
 I am a data scientist who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in, are Python, Tensorflow, Django, Flask and Fast api.
 - 👨🏽‍💻 Currently working in Natural language processing, Computer vision and Churn analytics
-- 🤝 Open for collaborations in deep learning, analytics and data science.
+- 🤝 Open for collaborations in Generative AI, Deep Learning, Analytics and Data Science.
 - 😊 Willing to contribute in opensource projects.
-- 👍 Working as Senior Machine Learning Engineer at [Quantiphi](https://quantiphi.com/)
+- 👍 Lead Machine Learning Engineer at [Pixis](https://pixis.ai/)
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
