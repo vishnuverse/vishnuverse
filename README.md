@@ -1,63 +1,63 @@
-# Hi, I'm Vishnu 👋
-
-**Founding ML Engineer** turning research-grade models into systems that survive contact with real users.
-
-I spend my days deep in production GenAI — orchestrating diffusion pipelines, wiring up LLM agents, and making sure none of it falls over at 3 AM. Currently Founding ML Engineer on **Adroom** and Lead ML Engineer at **[Pixis](https://pixis.ai/)**, where I own the AI backend for two GenAI platforms.
-
-```python
-class Vishnu:
-    def __init__(self):
-        self.role = "Founding ML Engineer @ Adroom · Lead MLE @ Pixis"
-        self.years_in_ml = 8
-        self.focus = ["Generative AI", "LLM Agents & MCP", "MLOps"]
-        self.currently_shipping = "diffusion pipelines + agentic systems in prod"
-```
-
----
-
-### 🔭 What I'm actually building
-
-- 🎨 A **25+ model creative-generation pipeline** — SDXL, ControlNet, custom Flux fine-tunes, inpainting, harmonization, upscaling — plus UGC video ads with talking-human avatars and voice cloning.
-- 🤖 **MCP servers in production** (two of them) exposing real tools to AI copilots in Claude Desktop and Cursor — built on FastMCP, 11+ tools, no business logic duplicated.
-- 🔀 A **unified provider abstraction** routing across OpenAI, Anthropic, Gemini, FAL, Replicate, and Baseten with webhook-driven async fan-out.
-- 🛠️ The boring-but-critical stuff: GPU autoscaling on EKS, drift monitoring, release gates, and self-healing job pipelines.
-
-### 🌱 Open to
-
-Collaborations and good conversations around **Generative AI, diffusion, LLM agents, and MLOps** — and the occasional open-source contribution.
-
----
-
-### 💻 My Stack
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-### 📊 GitHub in numbers
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vishnu+%F0%9F%91%8B;Founding+ML+Engineer;I+ship+GenAI+that+survives+real+users;Diffusion+pipelines+%2B+LLM+agents+%2B+MLOps" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishnuverse&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuverse&layout=compact&theme=tokyonight&hide_border=true" />
+  I take research-grade models and turn them into systems that don't fall over at 3&nbsp;AM.<br/>
+  Currently founding the ML stack at <b>Adroom</b> &middot; Lead ML Engineer @ <a href="https://pixis.ai/">Pixis</a> &middot; 8 years deep in production ML.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishnuverse&label=Profile%20views&color=58A6FF&style=flat" alt="views" />
+  <a href="https://www.linkedin.com/in/vishnu-anilkumar-367306126/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/The_VishnuAnil"><img src="https://img.shields.io/badge/Twitter-Say%20hi-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🤝 Let's connect
+### 🧠 The stuff I'm proud of
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-anilkumar-367306126/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/The_VishnuAnil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnuverse)
+> Not "I know Python." Actual things that run in production:
 
-> *"The model is the easy part. Shipping it is the job."*
+- 🎨 **A 25+ model creative engine** — SDXL, ControlNet, custom Flux fine-tunes, inpainting, harmonization, upscaling. It makes ad creative that used to need a studio and actors.
+- 🎬 **UGC video ads from scratch** — talking-human avatars + cloned voices + vision-based scene understanding, fully automated.
+- 🤖 **Two MCP servers, live in prod** — real tools wired into Claude Desktop & Cursor (FastMCP, 11+ tools). Ask me how MCP changes the way you build AI products.
+- 🔀 **One abstraction to route them all** — OpenAI, Anthropic, Gemini, FAL, Replicate, Baseten behind a single async, webhook-driven layer.
+
+### 💬 Good reasons to slide into my DMs
+
+```
+> ask me about ...... shipping diffusion models without the GPU bill exploding
+> argue with me about ... whether agents are overhyped (I have opinions)
+> nerd out over ........ MCP, eval frameworks, and self-healing job pipelines
+> hire / collab on ..... GenAI, LLM agents, MLOps — I'm listening
+```
+
+---
+
+### 🛠️ What I build with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,redis,docker,kubernetes,aws,gcp,git,linux&theme=dark" />
+  <br/>
+  <code>Diffusers</code> &middot; <code>Transformers</code> &middot; <code>LangChain</code> &middot; <code>FastMCP</code> &middot; <code>Kubeflow</code> &middot; <code>ARQ</code> &middot; <code>Chroma</code>
+</p>
+
+---
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnuverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuverse&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishnuverse&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuverse&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+<p align="center"><i>"The model is the easy part. Shipping it is the job."</i></p>
