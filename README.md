@@ -4,7 +4,7 @@
 
 <p align="center">
   I take research-grade models and turn them into systems that don't fall over at 3&nbsp;AM.<br/>
-  Currently founding the ML stack at <b>Adroom</b> &middot; Lead ML Engineer @ <a href="https://pixis.ai/">Pixis</a> &middot; 8 years deep in production ML.
+  Currently founding the ML stack at <b>Adroom</b> &middot; Lead ML Engineer &middot; 8 years deep in production ML.
 </p>
 
 <p align="center">
